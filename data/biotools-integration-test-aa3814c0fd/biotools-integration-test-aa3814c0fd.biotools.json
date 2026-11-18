@@ -1,6 +1,6 @@
 {
-  "biotoolsID": "biotools-integration-test-aa3814c0fd",
-  "name": "bio.tools ecosystem integration test",
-  "description": "Updated synthetic record for the bio.tools ecosystem integration test.",
-  "homepage": "https://example.org/biotools-integration-test"
+    "biotoolsID": "biotools-integration-test-aa3814c0fd",
+    "name": "bio.tools ecosystem integration test",
+    "description": "Updated synthetic record for the bio.tools ecosystem integration test.",
+    "homepage": "https://example.org/biotools-integration-test"
 }
